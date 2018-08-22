@@ -43,9 +43,6 @@ heroku git:remote -a <project_name>
 
 #### Step3. 上傳
 ```sh
-git init
-git add .
-git commit -m "initial commit"
 heroku config:set DISABLE_COLLECTSTATIC=1
 git push heroku master
 heroku ps:scale web=1
