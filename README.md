@@ -17,6 +17,10 @@ sudo snap install heroku --classic
 https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
 
+## Quick Start
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chenuin/heroku-startup-settings/tree/master)
+請先註冊 Heroku 帳號，點選按鈕即可快速將 Github 專案部屬到 Heroku
+
 
 ## 說明
 將範例專案下載到你的電腦

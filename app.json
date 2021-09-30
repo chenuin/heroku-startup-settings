@@ -1,0 +1,7 @@
+{
+	"name": "Heroku startup settings",
+	"description": "Getting started with Django project",
+	"repository": "https://github.com/chenuin/heroku-startup-settings",
+	"logo": "https://cdn-icons-png.flaticon.com/512/873/873120.png",
+	"keywords": ["heroku", "python", "django"]
+}
